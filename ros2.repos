@@ -241,8 +241,8 @@ repositories:
     version: humble
   ros2/mimick_vendor:
     type: git
-    url: https://github.com/ros2/mimick_vendor.git
-    version: humble
+    url: https://github.com/ziyao233/Mimick.git
+    version: ros2-fixed
   ros2/orocos_kdl_vendor:
     type: git
     url: https://github.com/ros2/orocos_kdl_vendor.git
